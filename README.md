@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 📝 I regularly write articles on [https://medium.com/@anuragdhamala8/](https://medium.com/@anuragdhamala8/)
+- 📝 I regularly write articles on [https://anurag-dhamala.hashnode.dev/](https://anurag-dhamala.hashnode.dev/)
 
 - 💬 Ask me about **JavaScript, Typescript, React, Svelte, NodeJs, Express**
 
