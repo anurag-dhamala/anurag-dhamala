@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Dhamala</h1>
-<h3 align="center">A passionate software engineer from Nepal</h3>
+<h3 align="center">I prefer to say I am computer science enthusiast.</h3>
 <p align="center"><img align="center" src = "https://profile-counter.glitch.me/anurag-dhamala/count.svg" alt ="Loading"></p>
 
 <p align="left"> <a href="https://twitter.com/theanurag_d" target="blank"><img src="https://img.shields.io/twitter/follow/theanurag_d?logo=twitter&style=for-the-badge" alt="theanurag_d" /></a> </p>
