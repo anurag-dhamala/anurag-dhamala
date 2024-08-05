@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/theanurag_d" target="blank"><img src="https://img.shields.io/twitter/follow/theanurag_d?logo=twitter&style=for-the-badge" alt="theanurag_d" /></a> </p>
 
-- 🌱 I’m currently learning **Go**
 
 - 📝 I regularly write articles on [https://anurag-dhamala.hashnode.dev/](https://anurag-dhamala.hashnode.dev/)
 
