@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **JavaScript, Typescript, React, Svelte, NodeJs, Express**
 
-- 📫 How to reach me **anuragdhamala04@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
